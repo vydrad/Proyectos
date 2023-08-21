@@ -1,0 +1,140 @@
+#include <iostream>
+#include <cstdlib>
+#include <cstdio>
+#include <ctime>
+#include <cstring>
+#include <conio.h>
+#include <time.h>
+#include "FuncionesG.h"
+#include "rlutil.h"
+
+
+/// Nombre: David Thomas
+/// Apellido: Vydra
+/// Legajo: 26191
+/// Tema: Trabajo Practico Integrador -Juego- "La Generala".
+
+
+
+int main(){
+
+rlutil::setBackgroundColor(rlutil::GREEN);
+int x=30, y=0;
+bool a=true;
+int opc, puntajemax1p=0,puntajemax2p=0;
+char puntajemaximo1p[30]= "aaaaaaaaaaaaaa";
+char puntajemaximo2p[30]= "aaaaaaaaaaaaaa";
+
+system("cls");
+ while (a==true){
+
+
+rlutil::setColor(rlutil::WHITE);
+rlutil::hidecursor();
+
+rlutil::locate(4,2);
+std::cout << "-------------------------*******-----------------------------------"<<std::endl;
+rlutil::locate(4,3);
+std::cout << "---------------------------*MENU*----------------------------------"<<std::endl;
+rlutil::locate(4,4);
+std::cout << "----------------*OPCION #1 JUGAR EN SOLITARIO*---------------------"<<std::endl;
+rlutil::locate(4,5);
+std::cout << "--------------*OPCION #2 JUGAR DE A 2 JUGADORES*-------------------"<<std::endl;
+rlutil::locate(4,6);
+std::cout << "--------*OPCION #3  MOSTRAR MAYOR PUNTAJE SOLITARIO&2P*------------"<<std::endl;
+rlutil::locate(4,7);
+std::cout << "---------------*OPCION #0 PARA SALIR DEL JUEGO*--------------------"<<std::endl;
+rlutil::locate(4,8);
+std::cout << "---------------------------***-------------------------------------"<<std::endl;
+
+rlutil::locate(4,14);
+std::cout << (char)60<<std::endl; ///IZQ
+rlutil::locate(8,14);
+std::cout << (char)62<<" FLECHAS para mover el cursor"<<std::endl; ///DER
+rlutil::locate(6,13);
+std::cout << (char)94<<std::endl;///UP
+rlutil::locate(6,14);
+std::cout << (char)118<<std::endl; ///DOWN
+
+rlutil::locate(44,14);
+std::cout << (char)254<<(char)254<<" ENTER para selecccionar"<<std::endl;
+
+
+
+rlutil::locate(2,4+y);
+
+std::cout<<(char)175<<std::endl;
+
+
+switch(rlutil::getkey()){
+    rlutil::setBackgroundColor(rlutil::GREEN);
+case 14: ///UP
+
+rlutil::locate(2,4+y);
+std::cout<<"  "<<std::endl;
+    y--;
+    if(y<0){
+        y=0;
+    }
+    break;
+case 15: ///DOWN
+
+rlutil::locate(2,4+y);
+std::cout<<"  "<<std::endl;
+    y++;
+    if(y>3){
+        y=3;
+    }
+    break;
+case 1: ///ENTER
+
+    switch (y){
+case 0:
+    oneplayer(puntajemaximo1p,puntajemax1p);
+///std::cout<<"name"<<puntajemaximo1p<<" puntaje:"<<puntajemax1p<<std::endl;    ///1 jugador
+   break;
+case 1:
+    twoplayers(puntajemaximo2p,puntajemax2p);     ///2 jugadores
+    break;
+case 2:
+    system("cls");
+    std::cout << "EL RECORD DE 1 JUGADOR MAXIMO ES: "<<puntajemax1p<<" DE "<< puntajemaximo1p<<std::endl;
+    std::cout << "EL RECORD DE 2 JUGADORES MAXIMO ES: "<<puntajemax2p<<" DE "<<puntajemaximo2p<<std::endl;
+    system("pause");
+    system("cls");
+    break;
+case 3:
+    return a=false;
+    break;
+        }
+}
+
+/*cin >> opc;
+        cin.ignore();
+    system ("cls");
+        switch (opc){
+            case 1:
+                oneplayer(puntajemaximo1p,puntajemax1p);
+                cout<<"name"<<puntajemaximo1p<<" puntaje:"<<puntajemax1p<<endl;
+
+            system("pause");
+                break;
+            case 2:
+                twoplayers(puntajemaximo2p,puntajemax2p);
+
+                break;
+            case 3:
+            cout << "EL RECORD DE 1 JUGADOR MAXIMO ES: "<<puntajemax1p<<" DE "<< puntajemaximo1p<<endl;
+            cout << "EL RECORD DE 2 JUGADORES MAXIMO ES: "<<puntajemax2p<<" DE "<<puntajemaximo2p<<endl;
+
+            system ("pause");
+                break;
+            case 0:
+                return a=false;
+
+                    }*/
+
+
+        }
+
+}

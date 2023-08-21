@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1657500589 source:c:\users\david\desktop\la_generala_dtv\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<ctime>
+	"FuncionesG.h"
+	"rlutil.h"
+
+1657504240 c:\users\david\desktop\la_generala_dtv\funcionesg.h
+	"rlutil.h"
+
+1571584339 c:\users\david\desktop\la_generala_dtv\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1659644503 source:d:\la_generala_dtv\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<ctime>
+	"FuncionesG.h"
+	"rlutil.h"
+
+1657504240 d:\la_generala_dtv\funcionesg.h
+	"rlutil.h"
+
+1571584339 d:\la_generala_dtv\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1682546023 source:c:\users\david\desktop\thomi-facultad\c++\proyecto la generala\la_generala_dtv\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<ctime>
+	"FuncionesG.h"
+	"rlutil.h"
+
+1682546024 c:\users\david\desktop\thomi-facultad\c++\proyecto la generala\la_generala_dtv\funcionesg.h
+	"rlutil.h"
+
+1682546021 c:\users\david\desktop\thomi-facultad\c++\proyecto la generala\la_generala_dtv\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+

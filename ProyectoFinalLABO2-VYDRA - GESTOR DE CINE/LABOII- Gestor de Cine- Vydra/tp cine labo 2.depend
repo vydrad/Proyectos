@@ -1,0 +1,2596 @@
+# depslib dependency file v1.0
+1666812157 source:c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1666640555 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\protofunciones.h
+
+1666379148 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\fecha.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\directores.h
+
+1666470683 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\salas.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\peliculas.h
+
+1666640653 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\ventas.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\submenusalas.h
+
+1666470539 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\submenupeliculas.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\submenudirectores.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\submenuventas.h
+
+1666380402 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\submenuconfiguracion.h
+
+1666811069 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\funcionesglobales.h
+
+1666812204 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\peliculassalas.h
+
+1666812204 c:\users\nahuel\downloads\tp2-cine actualizado\tp cine labo 2\submenupeliculassala.h
+
+1666899997 source:c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1666640555 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\protofunciones.h
+
+1666379148 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\fecha.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\directores.h
+
+1666900534 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\salas.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\peliculas.h
+
+1666812204 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\peliculassalas.h
+
+1666640653 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\ventas.h
+
+1666899819 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\datos.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenusalas.h
+
+1666470539 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenupeliculas.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenudirectores.h
+
+1666812204 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenupeliculassala.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenuventas.h
+
+1666900071 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenudatos.h
+
+1666380402 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\submenuconfiguracion.h
+
+1666811069 c:\users\nahuel\downloads\tp2-cine actualizado v2\tp cine labo 2\funcionesglobales.h
+
+1666899997 source:c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1667069237 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\protofunciones.h
+
+1666379148 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\fecha.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\directores.h
+
+1667072547 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\salas.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\peliculas.h
+
+1667068524 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\peliculassalas.h
+
+1667072314 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\ventas.h
+
+1666901524 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\datos.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenusalas.h
+
+1666470539 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenupeliculas.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenudirectores.h
+
+1666812204 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenupeliculassala.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenuventas.h
+
+1666900071 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenudatos.h
+
+1666380402 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\submenuconfiguracion.h
+
+1667069256 c:\users\nahuel\downloads\tp2-cine actualizado v3\tp cine labo 2\funcionesglobales.h
+
+1666899997 source:c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1667244987 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1666379148 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1666468357 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1667245110 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1667248731 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+
+1667243371 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1667245221 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1666901524 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+
+1667248253 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+
+1667243249 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1666381607 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1666900071 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+
+1666380402 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+
+1667244669 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+
+1667477403 source:c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1667342770 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1667342770 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+
+1667480427 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1667431852 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1667477579 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+
+1667432708 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+
+1667250966 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+
+1667431852 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+
+1667434477 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1667479633 c:\users\test\documents\github\tp2-cine\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+
+1668025625 source:c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+
+1667517701 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667347865 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1667347865 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1667347865 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1667994961 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+	<ctime>
+
+1667863619 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1667517701 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667347865 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1668025547 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668025295 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668025442 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+	"funcionesGlobales.h"
+
+1668025660 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668025295 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1668025442 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1668025442 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1668025442 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668021904 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+	"rlutil.h"
+
+1665752395 c:\users\david\desktop\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668025625 source:c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+
+1665752395 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1667347865 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1667347865 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1667994961 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+	<ctime>
+
+1667863619 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1667517701 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667347865 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1668025547 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668025295 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668021904 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+	"rlutil.h"
+
+1668025442 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+	"funcionesGlobales.h"
+
+1668025660 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668025295 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1668025442 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1668025442 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1668025442 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\nahuel\downloads\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668109358 source:c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+
+1665752395 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1667994961 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+	<ctime>
+
+1667863619 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1667517701 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1668025547 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668025295 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668021904 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668025660 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668025295 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1668173047 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668172791 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine actualizado v4\tp2-cine actualizado v4\tp cine labo 2\modificarpeliculas.h
+
+1668109358 source:c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+
+1665752395 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1668198168 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1668198168 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1668199446 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+	<ctime>
+
+1668200563 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1668200405 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667347865 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1668025547 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668199663 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668199964 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668199166 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\modificarpeliculas.h
+
+1668025660 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668200635 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1668173047 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1668025442 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1668025442 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\nahuel\downloads\tp version 11-11-2022\tp2-cine 11-11-22\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668109358 source:c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+
+1665752395 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667347865 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1668198168 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1668198168 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1668199446 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+	<ctime>
+
+1668200563 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1668200405 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667347865 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1668025547 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668199663 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668199964 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668295076 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\modificarpeliculas.h
+
+1668025660 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668200672 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1668173047 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1668025442 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1668025442 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\david\desktop\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668109358 source:c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+
+1665752395 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\protofunciones.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\fecha.h
+
+1668521154 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\directores.h
+
+1668521606 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\salas.h
+
+1668521430 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\peliculas.h
+	<ctime>
+
+1668521769 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\peliculassalas.h
+
+1668521717 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\ventas.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\datos.h
+
+1668025547 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668520716 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668199964 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668520659 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\modificarpeliculas.h
+
+1668025660 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668519864 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\modificardirectores.h
+
+1668522139 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenupeliculassala.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenuventas.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\test\desktop\tp cine act 10-11-22\tp2-cine 11-11-22 v2\tp2-cine 11-11-22 v2\tp2-cine actualizado v4\tp cine labo 2\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668109358 source:c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+
+1665752395 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\protofunciones.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\fecha.h
+
+1668521154 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\directores.h
+
+1668521606 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\salas.h
+
+1668521430 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\peliculas.h
+	<ctime>
+
+1668548336 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\peliculassalas.h
+
+1668521717 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\ventas.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\datos.h
+
+1668025547 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668520716 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668199964 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668520659 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\modificarpeliculas.h
+
+1668025660 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668519864 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\modificardirectores.h
+
+1668542791 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenupeliculassala.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenuventas.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668109358 source:c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+
+1665752395 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667517701 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\protofunciones.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\fecha.h
+
+1668521154 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\directores.h
+
+1668521606 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\salas.h
+
+1668521430 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\peliculas.h
+	<ctime>
+
+1668548336 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\peliculassalas.h
+
+1668521717 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\ventas.h
+
+1667347865 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\datos.h
+
+1668025547 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668520716 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668199964 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668520659 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\modificarpeliculas.h
+
+1668025660 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668519864 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\modificardirectores.h
+
+1668542791 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenupeliculassala.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenuventas.h
+
+1668025442 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\test\desktop\tp cine act 10-11-22\tp cine labo 2 15-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668715025 source:c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668718240 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\fecha.h
+
+1668521154 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\directores.h
+
+1668521606 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\salas.h
+
+1668713440 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\peliculas.h
+	<ctime>
+
+1668548336 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\peliculassalas.h
+
+1668800117 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\ventas.h
+
+1667347865 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\datos.h
+
+1668025547 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1668520716 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1668718240 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1668520659 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\modificarpeliculas.h
+
+1668025660 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1668519864 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\modificardirectores.h
+
+1668542791 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenupeliculassala.h
+
+1668800433 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1668800974 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\modificarventas.h
+
+1668025442 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\nahuel\downloads\tp cine version 17-11-22\tp cine labo 2 17-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668715025 source:c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669056390 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\fecha.h
+
+1668521154 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\directores.h
+
+1668521606 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\salas.h
+
+1668713440 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\peliculas.h
+	<ctime>
+
+1669057290 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\peliculassalas.h
+
+1668800117 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\ventas.h
+
+1667347865 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\datos.h
+
+1668025547 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669055730 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669056390 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669055881 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\modificarpeliculas.h
+
+1668025660 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669056390 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\modificardirectores.h
+
+1669056537 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenupeliculassala.h
+
+1668800433 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669054926 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\modificarventas.h
+
+1668025442 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1668025611 c:\users\nahuel\downloads\tp cine version 18-11-22\tp cine labo 2 18-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668715025 source:c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669056390 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\fecha.h
+
+1668521154 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\directores.h
+
+1668521606 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\salas.h
+
+1668713440 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\peliculas.h
+	<ctime>
+
+1669057290 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\peliculassalas.h
+
+1668800117 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\ventas.h
+
+1667347865 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\datos.h
+
+1668025547 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669055730 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669056390 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669055881 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\modificarpeliculas.h
+
+1668025660 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669056390 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\modificardirectores.h
+
+1669056537 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenupeliculassala.h
+
+1668800433 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669054926 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\modificarventas.h
+
+1668025442 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669144745 c:\users\nahuel\downloads\tp cine version 22-11-22\tp cine labo 2 22-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1668715025 source:c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669056390 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\protofunciones.h
+
+1667347865 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\fecha.h
+
+1668521154 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\directores.h
+
+1668521606 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\salas.h
+
+1668713440 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\peliculas.h
+	<ctime>
+
+1669057290 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\peliculassalas.h
+
+1668800117 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\ventas.h
+
+1667347865 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\datos.h
+
+1668025547 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669055730 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669056390 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1668172926 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669055881 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificarpeliculas.h
+
+1668025660 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669056390 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificardirectores.h
+
+1669056537 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenupeliculassala.h
+
+1669151705 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669054926 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificarventas.h
+
+1668025442 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669151658 c:\users\david\desktop\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669242085 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\protofunciones.h
+
+1667347865 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\fecha.h
+
+1669223635 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\directores.h
+
+1669223635 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\salas.h
+
+1669223684 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\peliculas.h
+	<ctime>
+
+1669241477 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\peliculassalas.h
+
+1669242462 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\ventas.h
+
+1669244638 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\datos.h
+
+1669245383 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669245094 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1669245383 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificarpeliculas.h
+
+1669245248 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificardirectores.h
+
+1669245383 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenupeliculassala.h
+
+1669245383 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\modificarventas.h
+
+1669245383 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669245585 c:\users\test\desktop\tpcine 22-11-22\tp cine labo 2 22-11-2022-11\tp cine labo 2 22-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669242085 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\fecha.h
+
+1669223635 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\directores.h
+
+1669223635 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\salas.h
+
+1669223684 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\peliculas.h
+	<ctime>
+
+1669241477 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\peliculassalas.h
+
+1669242462 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\ventas.h
+
+1669244638 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\datos.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669245094 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\modificarpeliculas.h
+
+1669245248 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\modificardirectores.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenupeliculassala.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\modificarventas.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669245585 c:\users\nahuel\downloads\tp cine labo 2 22-11-2022-11333\tp cine labo 2 22-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669242085 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\fecha.h
+
+1669223635 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\directores.h
+
+1669223635 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\salas.h
+
+1669223684 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\peliculas.h
+	<ctime>
+
+1669241477 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\peliculassalas.h
+
+1669242462 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\ventas.h
+
+1669318480 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\datos.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669245094 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\modificarpeliculas.h
+
+1669245248 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\modificardirectores.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenupeliculassala.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\modificarventas.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669245585 c:\users\nahuel\downloads\tp cine labo 2 24-11-2022\tp cine labo 2 24-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669751790 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\protofunciones.h
+
+1667347865 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\fecha.h
+
+1669752768 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\directores.h
+
+1669752768 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\salas.h
+
+1669752768 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\peliculas.h
+	<ctime>
+
+1669752768 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\peliculassalas.h
+
+1669752768 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\ventas.h
+
+1669756899 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\datos.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669752636 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\modificarpeliculas.h
+
+1669245248 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\modificardirectores.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenupeliculassala.h
+
+1669245383 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\modificarventas.h
+
+1669756960 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669756960 c:\users\nahuel\downloads\tp cine labo 2 29-11-2022\tp cine labo 2 24-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669751790 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\protofunciones.h
+
+1667347865 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\fecha.h
+
+1669752768 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\directores.h
+
+1669752768 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\salas.h
+
+1669752768 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\peliculas.h
+	<ctime>
+
+1669752768 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\peliculassalas.h
+
+1669752768 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\ventas.h
+
+1669831518 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\datos.h
+
+1669245383 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669752636 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1669245383 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificarpeliculas.h
+
+1669245248 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificardirectores.h
+
+1669245383 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenupeliculassala.h
+
+1669245383 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificarventas.h
+
+1669756960 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669829395 c:\users\david\desktop\tp cine labo 2 29-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669751790 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\protofunciones.h
+
+1667347865 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\fecha.h
+
+1669849175 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\directores.h
+
+1669849175 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\salas.h
+
+1669849175 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\peliculas.h
+	<ctime>
+
+1669849175 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\peliculassalas.h
+
+1669849175 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\ventas.h
+
+1669844406 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\datos.h
+
+1669844706 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669847564 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\funcionesglobales.h
+	"rlutil.h"
+
+1669844657 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificarpeliculas.h
+
+1669844734 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificardirectores.h
+
+1669844815 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenupeliculassala.h
+
+1669844852 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\modificarventas.h
+
+1669844922 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669845115 c:\users\test\desktop\tp cine labo 2 30-11-2022 (1)\tp cine labo 2 29-11-2022\tp cine labo 2 29-11-2022-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669245142 source:c:\users\test\desktop\tp cine final30-11\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\test\desktop\tp cine final30-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669751790 c:\users\test\desktop\tp cine final30-11\protofunciones.h
+
+1667347865 c:\users\test\desktop\tp cine final30-11\fecha.h
+
+1669849952 c:\users\test\desktop\tp cine final30-11\directores.h
+
+1669849952 c:\users\test\desktop\tp cine final30-11\salas.h
+
+1669849952 c:\users\test\desktop\tp cine final30-11\peliculas.h
+	<ctime>
+
+1669849952 c:\users\test\desktop\tp cine final30-11\peliculassalas.h
+
+1669849952 c:\users\test\desktop\tp cine final30-11\ventas.h
+
+1669844406 c:\users\test\desktop\tp cine final30-11\datos.h
+
+1669844706 c:\users\test\desktop\tp cine final30-11\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\test\desktop\tp cine final30-11\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669847564 c:\users\test\desktop\tp cine final30-11\funcionesglobales.h
+	"rlutil.h"
+
+1669844657 c:\users\test\desktop\tp cine final30-11\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669245518 c:\users\test\desktop\tp cine final30-11\modificarpeliculas.h
+
+1669844734 c:\users\test\desktop\tp cine final30-11\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669245450 c:\users\test\desktop\tp cine final30-11\modificardirectores.h
+
+1669844815 c:\users\test\desktop\tp cine final30-11\submenupeliculassala.h
+
+1669844852 c:\users\test\desktop\tp cine final30-11\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\test\desktop\tp cine final30-11\modificarventas.h
+
+1669844922 c:\users\test\desktop\tp cine final30-11\submenudatos.h
+	"funcionesGlobales.h"
+
+1669845115 c:\users\test\desktop\tp cine final30-11\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669850560 source:c:\users\test\desktop\gomez-sandoval-vydra\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\test\desktop\gomez-sandoval-vydra\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669751790 c:\users\test\desktop\gomez-sandoval-vydra\protofunciones.h
+
+1667347865 c:\users\test\desktop\gomez-sandoval-vydra\fecha.h
+
+1669849952 c:\users\test\desktop\gomez-sandoval-vydra\directores.h
+
+1669849952 c:\users\test\desktop\gomez-sandoval-vydra\salas.h
+
+1669849952 c:\users\test\desktop\gomez-sandoval-vydra\peliculas.h
+	<ctime>
+
+1669849952 c:\users\test\desktop\gomez-sandoval-vydra\peliculassalas.h
+
+1669849952 c:\users\test\desktop\gomez-sandoval-vydra\ventas.h
+
+1669844406 c:\users\test\desktop\gomez-sandoval-vydra\datos.h
+
+1669844706 c:\users\test\desktop\gomez-sandoval-vydra\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669851737 c:\users\test\desktop\gomez-sandoval-vydra\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669847564 c:\users\test\desktop\gomez-sandoval-vydra\funcionesglobales.h
+	"rlutil.h"
+
+1669844657 c:\users\test\desktop\gomez-sandoval-vydra\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669851807 c:\users\test\desktop\gomez-sandoval-vydra\modificarpeliculas.h
+
+1669844734 c:\users\test\desktop\gomez-sandoval-vydra\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669851700 c:\users\test\desktop\gomez-sandoval-vydra\modificardirectores.h
+
+1669844815 c:\users\test\desktop\gomez-sandoval-vydra\submenupeliculassala.h
+
+1669844852 c:\users\test\desktop\gomez-sandoval-vydra\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\test\desktop\gomez-sandoval-vydra\modificarventas.h
+
+1669844922 c:\users\test\desktop\gomez-sandoval-vydra\submenudatos.h
+	"funcionesGlobales.h"
+
+1669845115 c:\users\test\desktop\gomez-sandoval-vydra\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1669850560 source:c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1669751790 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\protofunciones.h
+
+1667347865 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\fecha.h
+
+1669849952 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\directores.h
+
+1669849952 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\salas.h
+
+1669849952 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\peliculas.h
+	<ctime>
+
+1669849952 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\peliculassalas.h
+
+1669849952 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\ventas.h
+
+1669844406 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\datos.h
+
+1669844706 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1669851737 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificarsalas.h
+	"funcionesGlobales.h"
+
+1669847564 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\funcionesglobales.h
+	"rlutil.h"
+
+1669844657 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1669851807 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificarpeliculas.h
+
+1669844734 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1669851700 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificardirectores.h
+
+1669844815 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenupeliculassala.h
+
+1669844852 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenuventas.h
+	"modificarVentas.h"
+
+1669245450 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificarventas.h
+
+1669844922 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenudatos.h
+	"funcionesGlobales.h"
+
+1669845115 c:\users\david\desktop\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1687153152 source:c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687160528 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\protofunciones.h
+
+1687160313 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\fecha.h
+	<ctime>
+
+1687159603 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\directores.h
+
+1687141242 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\salas.h
+
+1687141260 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\peliculas.h
+	<ctime>
+
+1687157304 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\peliculassalas.h
+
+1687141576 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\ventas.h
+
+1687140393 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\datos.h
+
+1687136415 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1687157305 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificarsalas.h
+	"funcionesGlobales.h"
+
+1687163699 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\funcionesglobales.h
+	"rlutil.h"
+
+1687136483 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1687156949 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificarpeliculas.h
+
+1687159684 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1687160412 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificardirectores.h
+
+1687136602 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenupeliculassala.h
+
+1687141618 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenuventas.h
+	"modificarVentas.h"
+
+1687163696 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\modificarventas.h
+
+1687152505 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenudatos.h
+	"funcionesGlobales.h"
+
+1687137676 c:\users\david\desktop\proyectos en codeblocks\gomez-sandoval-vydra (2)\gomez-sandoval-vydra\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1687153152 source:c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687285962 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\protofunciones.h
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\fecha.h
+	<ctime>
+
+1687372881 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\directores.h
+
+1687378070 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\salas.h
+
+1687378070 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\peliculas.h
+	<ctime>
+
+1687381699 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\peliculassalas.h
+
+1687380208 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\ventas.h
+
+1687372881 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\datos.h
+
+1687372737 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1687372881 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\modificarsalas.h
+	"funcionesGlobales.h"
+
+1687372881 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\funcionesglobales.h
+	"rlutil.h"
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\modificarpeliculas.h
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\modificardirectores.h
+
+1687312886 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenupeliculassala.h
+
+1687372881 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenuventas.h
+	"modificarVentas.h"
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\modificarventas.h
+
+1687372881 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenudatos.h
+	"funcionesGlobales.h"
+
+1687302648 c:\users\david\desktop\vydradavdthomas\laboii- gestor de cine- vydra\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1687913304 source:c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687285962 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\protofunciones.h
+
+1687724357 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\fecha.h
+	<ctime>
+
+1687821385 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\directores.h
+
+1687821875 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\salas.h
+
+1687908971 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\peliculas.h
+	<ctime>
+
+1688038303 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\peliculassalas.h
+
+1687891658 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\ventas.h
+
+1687913449 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\datos.h
+
+1687913116 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1687913491 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\modificarsalas.h
+	"funcionesGlobales.h"
+
+1687915639 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\funcionesglobales.h
+	"peliculas.h"
+	"rlutil.h"
+
+1687913136 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1687913499 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\modificarpeliculas.h
+
+1687913151 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1687913506 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\modificardirectores.h
+
+1687916655 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenupeliculassala.h
+
+1687913176 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenuventas.h
+	"modificarVentas.h"
+
+1687913513 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\modificarventas.h
+
+1687913183 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenudatos.h
+	"funcionesGlobales.h"
+
+1687913190 c:\users\david\desktop\vydradavidthomascine\vydradavidthomas\laboii- gestor de cine- vydra\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
+1687913304 source:c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"protoFunciones.h"
+	"fecha.h"
+	"directores.h"
+	"salas.h"
+	"peliculas.h"
+	"peliculasSalas.h"
+	"ventas.h"
+	"Datos.h"
+	"submenuSalas.h"
+	"submenuPeliculas.h"
+	"submenuDirectores.h"
+	"submenuPeliculasSala.h"
+	"submenuVentas.h"
+	"submenuDatos.h"
+	"submenuConfiguracion.h"
+	"funcionesGlobales.h"
+	"modificarDirectores.h"
+	"modificarSalas.h"
+	"modificarPeliculas.h"
+	"modificarVentas.h"
+
+1665752395 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687285962 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\protofunciones.h
+
+1687724357 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\fecha.h
+	<ctime>
+
+1687821385 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\directores.h
+
+1687821875 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\salas.h
+
+1687908971 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\peliculas.h
+	<ctime>
+
+1688038303 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\peliculassalas.h
+
+1687891658 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\ventas.h
+
+1687913449 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\datos.h
+
+1687913116 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenusalas.h
+	"modificarSalas.h"
+	"funcionesGlobales.h"
+
+1687913491 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\modificarsalas.h
+	"funcionesGlobales.h"
+
+1687915639 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\funcionesglobales.h
+	"peliculas.h"
+	"rlutil.h"
+
+1687913136 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenupeliculas.h
+	"modificarPeliculas.h"
+
+1687913499 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\modificarpeliculas.h
+
+1687913151 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenudirectores.h
+	"modificarDirectores.h"
+	"funcionesGlobales.h"
+
+1687913506 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\modificardirectores.h
+
+1687916655 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenupeliculassala.h
+
+1687913176 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenuventas.h
+	"modificarVentas.h"
+
+1687913513 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\modificarventas.h
+
+1687913183 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenudatos.h
+	"funcionesGlobales.h"
+
+1687913190 c:\users\david\desktop\programacion.clases importantes\proyectos en codeblocks\laboii- gestor de cine- vydraterminado\submenuconfiguracion.h
+	"funcionesGlobales.h"
+	"rlutil.h"
+
